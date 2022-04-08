@@ -1,0 +1,18 @@
+{
+   "action": {
+      "default_popup": "popup.html",
+      "default_title": "Start"
+   },
+   "background": {
+      "service_worker": "background.js"
+   },
+   "description": "Hive dApp Menu is a collection of shortcuts to useful Hive blockchain apps.",
+   "icons": {
+      "128": "assets/pizza_team_logo_new.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAg9oHyvnKGS8iGmYcDfOItONBkv3VvKP27dWrdY8S8Sl5XRIaIO7HzR7skEH8HQ+YBFsyYxdmkEq5jIfDjhKl9xnx6QszrAL5vxwnHkmyJjnqbIoId/Ma9pjQUfg3bO3jnvV+7coXXFNA5JGzQHFn03OhVl5WRrUcymKHCB2DGKx/6InzvaOhO9eoa7Foz7Vq425yHc5LOO67OPmDM1q8Q5+wDLLjyMzjADHtQrGfcTyd+lpi0Yltj96pWLwsNMDzM+gUYKfItO4yRhi55/WkIdElV9wzyL4meU6KsHBxXLN0xV6+wDPdN1DxGp3qRiEqKGdmgkKjvxBFltDRDglwmwIDAQAB",
+   "manifest_version": 3,
+   "name": "Hive dApp Menu",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.0.0.9"
+}

@@ -1,0 +1,102 @@
+{
+   "activeAuthority": {
+      "description": "Info about active Authority requirement for patron feature",
+      "message": "Active Authority is required"
+   },
+   "cancell": {
+      "description": "Button action to discard current proposed changes",
+      "message": "Cancel"
+   },
+   "changerpcnode": {
+      "description": "Change the rpc-node API for broadcast operations in Hive blockchain",
+      "message": "Change rpc-node"
+   },
+   "changesliderlimits": {
+      "description": "Change the predefined slider lower and upper limits",
+      "message": "Slider settings"
+   },
+   "closewindow": {
+      "description": "Button action to close current window",
+      "message": "Close"
+   },
+   "configuration": {
+      "description": "Set of user-manipulable parameters that change the behaviour of the extension",
+      "message": "Configuration"
+   },
+   "confirm": {
+      "description": "Button action to preserve changes",
+      "message": "Confirm"
+   },
+   "danger": {
+      "description": "hivetips extension requires at least one hive account name in order to work",
+      "message": "Please input your hive account name in Services menu"
+   },
+   "description": {
+      "description": "Extension description, as shown in the store.",
+      "message": "A chrome extension for tipping on social media platforms with HIVE tokens"
+   },
+   "dialog_header": {
+      "description": "Intro header for services dialog popup",
+      "message": "Select which social media platform you would like hivetips to interact with:"
+   },
+   "dialog_info": {
+      "description": "user info in regards of required input data",
+      "message": "HIVE account name is required"
+   },
+   "dialog_warning": {
+      "description": "user alert about use policy",
+      "message": "Note: Self tipping is not supported. Self tipping is spam. All 'self tips' are considered to be donations to Hive Tips."
+   },
+   "direct_tip": {
+      "description": "a feature for direct tipping a HIVE account from the extension popup",
+      "message": "DirectTip"
+   },
+   "hivetips": {
+      "description": "Extension name, night not need to translate it.",
+      "message": "hivetips"
+   },
+   "lowerlimit": {
+      "description": "Lower limit of the tip amount slider",
+      "message": "Min"
+   },
+   "mytips": {
+      "description": "Tab showing recent sent and received tips",
+      "message": "My Tips"
+   },
+   "notifications": {
+      "description": "Configuration option for choosing whether to allow notifications or not",
+      "message": "Allow notifications?"
+   },
+   "overview": {
+      "description": "Summary of hivetips services and linked accounts",
+      "message": "Overview"
+   },
+   "services": {
+      "description": "List of different services offered by this extension",
+      "message": "Services"
+   },
+   "tip_amount": {
+      "description": "The default amount to send as Tip",
+      "message": "Preferred Tip amount"
+   },
+   "upperlimit": {
+      "description": "Upper limit of the tip amount slider",
+      "message": "Max"
+   },
+   "validator1": {
+      "description": "Text input validation rule that explicitly describes no spaces are accepted",
+      "message": "Spaces are not allowed."
+   },
+   "validator2": {
+      "description": "Text input validation rule that explicitly describes no less than 4 characters are accepted",
+      "message": "At least 4 characters."
+   },
+   "validator3": {
+      "description": "Text input validation rule that explicitly describes no et symbol is accepted",
+      "message": "No et (@)."
+   },
+   "validator4": {
+      "description": "Text input validation rule that explicitly describes no uppercase characters are accepted",
+      "message": "Input must be lowercase."
+   }
+}

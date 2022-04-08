@@ -1,0 +1,6 @@
+2022/04/07-06:32:59.224 14dd1 Creating DB /home/unklebonehead/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.atlassian.com_0.indexeddb.leveldb since it was missing.
+2022/04/07-06:32:59.227 14dd1 Reusing MANIFEST /home/unklebonehead/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.atlassian.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/04/07-06:52:09.958 14dcd Level-0 table #5: started
+2022/04/07-06:52:09.959 14dcd Level-0 table #5: 18870 bytes OK
+2022/04/07-06:52:09.960 14dcd Delete type=0 #3
+2022/04/07-06:52:09.960 14dcd Manual compaction at level-0 from (begin) .. (end); will stop at (end)
