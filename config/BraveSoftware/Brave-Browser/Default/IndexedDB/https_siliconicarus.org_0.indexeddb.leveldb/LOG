@@ -1,6 +1,0 @@
-2022/04/04-20:51:37.454 5011 Creating DB /home/unklebonehead/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_siliconicarus.org_0.indexeddb.leveldb since it was missing.
-2022/04/04-20:51:37.460 5011 Reusing MANIFEST /home/unklebonehead/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_siliconicarus.org_0.indexeddb.leveldb/MANIFEST-000001
-2022/04/04-20:51:45.322 5015 Level-0 table #5: started
-2022/04/04-20:51:45.322 5015 Level-0 table #5: 565 bytes OK
-2022/04/04-20:51:45.323 5015 Delete type=0 #3
-2022/04/04-20:51:45.323 5015 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

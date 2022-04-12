@@ -1,6 +1,0 @@
-2022/04/07-21:04:24.393 134c Reusing MANIFEST /home/unklebonehead/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/MANIFEST-000001
-2022/04/07-21:04:24.394 134c Recovering log #202
-2022/04/07-21:04:24.395 134c Reusing old log /home/unklebonehead/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/000202.log 
-2022/04/07-21:09:54.111 142e Level-0 table #206: started
-2022/04/07-21:09:54.116 142e Level-0 table #206: 69269 bytes OK
-2022/04/07-21:09:54.118 142e Delete type=0 #202
